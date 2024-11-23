@@ -50,5 +50,8 @@ namespace FinalProjGroup8
 
             base.Draw(gameTime);
         }
+
+        private void member2Method(){
+        }
     }
 }
