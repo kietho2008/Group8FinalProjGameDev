@@ -2,6 +2,8 @@
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 
+
+//Gia has commented this
 namespace FinalProjGroup8
 {
     public class Game1 : Game
