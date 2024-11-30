@@ -4,6 +4,7 @@ using Microsoft.Xna.Framework.Input;
 
 
 //Gia has commented this
+//Change1 made by Gia
 namespace FinalProjGroup8
 {
     public class Game1 : Game
@@ -49,9 +50,6 @@ namespace FinalProjGroup8
             // TODO: Add your drawing code here
 
             base.Draw(gameTime);
-        }
-
-        private void member2Method(){
         }
     }
 }
