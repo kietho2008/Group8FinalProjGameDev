@@ -4,6 +4,7 @@ using Microsoft.Xna.Framework.Input;
 
 
 //Gia has commented this
+//Change1 made by Gia
 namespace FinalProjGroup8
 {
     public class Game1 : Game
