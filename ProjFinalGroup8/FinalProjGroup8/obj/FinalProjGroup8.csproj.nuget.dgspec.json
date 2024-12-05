@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CSharpGameFinalProj\\Group8FinalProjGameDev\\ProjFinalGroup8\\FinalProjGroup8\\FinalProjGroup8.csproj": {}
+    "C:\\FinalProjectGroup8\\sahil\\Group8FinalGameDevProject\\Group8FinalProjGameDev\\ProjFinalGroup8\\FinalProjGroup8\\FinalProjGroup8.csproj": {}
   },
   "projects": {
-    "C:\\CSharpGameFinalProj\\Group8FinalProjGameDev\\ProjFinalGroup8\\FinalProjGroup8\\FinalProjGroup8.csproj": {
+    "C:\\FinalProjectGroup8\\sahil\\Group8FinalGameDevProject\\Group8FinalProjGameDev\\ProjFinalGroup8\\FinalProjGroup8\\FinalProjGroup8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CSharpGameFinalProj\\Group8FinalProjGameDev\\ProjFinalGroup8\\FinalProjGroup8\\FinalProjGroup8.csproj",
+        "projectUniqueName": "C:\\FinalProjectGroup8\\sahil\\Group8FinalGameDevProject\\Group8FinalProjGameDev\\ProjFinalGroup8\\FinalProjGroup8\\FinalProjGroup8.csproj",
         "projectName": "FinalProjGroup8",
-        "projectPath": "C:\\CSharpGameFinalProj\\Group8FinalProjGameDev\\ProjFinalGroup8\\FinalProjGroup8\\FinalProjGroup8.csproj",
-        "packagesPath": "C:\\Users\\hogia\\.nuget\\packages\\",
-        "outputPath": "C:\\CSharpGameFinalProj\\Group8FinalProjGameDev\\ProjFinalGroup8\\FinalProjGroup8\\obj\\",
+        "projectPath": "C:\\FinalProjectGroup8\\sahil\\Group8FinalGameDevProject\\Group8FinalProjGameDev\\ProjFinalGroup8\\FinalProjGroup8\\FinalProjGroup8.csproj",
+        "packagesPath": "C:\\Users\\halwa\\.nuget\\packages\\",
+        "outputPath": "C:\\FinalProjectGroup8\\sahil\\Group8FinalGameDevProject\\Group8FinalProjGameDev\\ProjFinalGroup8\\FinalProjGroup8\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\hogia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\halwa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -38,7 +38,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -69,7 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

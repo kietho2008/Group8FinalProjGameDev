@@ -1,15 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "qazkz3upRJO/ck251vM3C2p4TOBXYen1wFmK57hcd1g04QiwqfqrpDReELIkXa8mQ6oLseNPuBY2mZagheZpzA==",
+  "dgSpecHash": "sCLma4u+q5Q=",
   "success": true,
-  "projectFilePath": "C:\\CSharpGameFinalProj\\Group8FinalProjGameDev\\ProjFinalGroup8\\FinalProjGroup8\\FinalProjGroup8.csproj",
+  "projectFilePath": "C:\\FinalProjectGroup8\\sahil\\Group8FinalGameDevProject\\Group8FinalProjGameDev\\ProjFinalGroup8\\FinalProjGroup8\\FinalProjGroup8.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\hogia\\.nuget\\packages\\monogame.content.builder.task\\3.8.2.1105\\monogame.content.builder.task.3.8.2.1105.nupkg.sha512",
-    "C:\\Users\\hogia\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.2.1105\\monogame.framework.desktopgl.3.8.2.1105.nupkg.sha512",
-    "C:\\Users\\hogia\\.nuget\\packages\\monogame.library.sdl\\2.26.5.5\\monogame.library.sdl.2.26.5.5.nupkg.sha512",
-    "C:\\Users\\hogia\\.nuget\\packages\\nvorbis\\0.10.4\\nvorbis.0.10.4.nupkg.sha512",
-    "C:\\Users\\hogia\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
-    "C:\\Users\\hogia\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+    "C:\\Users\\halwa\\.nuget\\packages\\monogame.content.builder.task\\3.8.2.1105\\monogame.content.builder.task.3.8.2.1105.nupkg.sha512",
+    "C:\\Users\\halwa\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.2.1105\\monogame.framework.desktopgl.3.8.2.1105.nupkg.sha512",
+    "C:\\Users\\halwa\\.nuget\\packages\\monogame.library.sdl\\2.26.5.5\\monogame.library.sdl.2.26.5.5.nupkg.sha512",
+    "C:\\Users\\halwa\\.nuget\\packages\\nvorbis\\0.10.4\\nvorbis.0.10.4.nupkg.sha512",
+    "C:\\Users\\halwa\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\halwa\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
   ],
   "logs": []
 }

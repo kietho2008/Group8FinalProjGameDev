@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/FinalProjectGroup8/sahil/Group8FinalGameDevProject/Group8FinalProjGameDev/ProjFinalGroup8/FinalProjGroup8/Content/backgroung.jpg</File>
+    <File>C:/FinalProjectGroup8/sahil/Group8FinalGameDevProject/Group8FinalProjGameDev/ProjFinalGroup8/FinalProjGroup8/Content/ball.png</File>
+    <File>C:/FinalProjectGroup8/sahil/Group8FinalGameDevProject/Group8FinalProjGameDev/ProjFinalGroup8/FinalProjGroup8/Content/Bar.jpg</File>
+    <File>C:/FinalProjectGroup8/sahil/Group8FinalGameDevProject/Group8FinalProjGameDev/ProjFinalGroup8/FinalProjGroup8/Content/Brick.jpg</File>
+    <File>C:/FinalProjectGroup8/sahil/Group8FinalGameDevProject/Group8FinalProjGameDev/ProjFinalGroup8/FinalProjGroup8/Content/Brickbreak.wav</File>
+    <File>C:/FinalProjectGroup8/sahil/Group8FinalGameDevProject/Group8FinalProjGameDev/ProjFinalGroup8/FinalProjGroup8/Content/chimes.wav</File>
+    <File>C:/FinalProjectGroup8/sahil/Group8FinalGameDevProject/Group8FinalProjGameDev/ProjFinalGroup8/FinalProjGroup8/Content/click.wav</File>
+    <File>C:/FinalProjectGroup8/sahil/Group8FinalGameDevProject/Group8FinalProjGameDev/ProjFinalGroup8/FinalProjGroup8/Content/ding.wav</File>
+    <File>C:/FinalProjectGroup8/sahil/Group8FinalGameDevProject/Group8FinalProjGameDev/ProjFinalGroup8/FinalProjGroup8/Content/timerFont.spritefont</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
